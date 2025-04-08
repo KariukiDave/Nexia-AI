@@ -1,0 +1,4 @@
+mkdir -p src/{components,lib,utils,hooks,store,types,services,styles}
+mkdir -p src/app/{auth,dashboard,admin,documents,interviews,settings}
+mkdir -p src/components/{common,layout,forms,cv,interview,admin}
+mkdir -p src/services/{api,ai,storage} 
